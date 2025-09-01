@@ -6,6 +6,7 @@ A Streamlit web app that predicts air quality and shows safety insights
 📂 Project Structure
 
 Air-quality-predictor/
+
 │── app.py                 # Web app code  
 │── main.py                # Script to test predictions  
 │── air_quality_model.pkl  # Trained ML model  
