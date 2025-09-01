@@ -4,6 +4,7 @@ A Streamlit web app that predicts air quality and shows safety insights
 🌍 Air Quality Predictor
 
 📂 Project Structure
+
 Air-quality-predictor/
 │── app.py                 # Web app code  
 │── main.py                # Script to test predictions  
